@@ -3,9 +3,6 @@ this is feature branch
 mera nam
 neeraj saini hai
 remote change.
-sdsdsdsd
-dsdsds
-ddd
 weasw
 last modification on local.
 last chang in remote.
